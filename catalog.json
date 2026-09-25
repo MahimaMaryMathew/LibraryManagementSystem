@@ -1,0 +1,93 @@
+{
+    "B101": {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B102": {
+        "title": "1984",
+        "author": "George Orwell",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B103": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B104": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B105": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B106": {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B107": {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B108": {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B109": {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B110": {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B111": {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B112": {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    },
+    "B113": {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "is_available": true,
+        "borrower": null,
+        "due_date": null
+    }
+}
