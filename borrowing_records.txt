@@ -1,0 +1,3 @@
+[2026-09-26 00:26:54] BORROW - Book ID: B101 ('The Hobbit') | User: john | Due: 2026-10-10
+[2026-09-26 00:28:54] BORROW - Book ID: B102 ('1984') | User: grace | Due: 2026-10-10
+[2026-09-26 00:30:04] RETURN - Book ID: B101 ('The Hobbit') | User: john | Due: N/A
